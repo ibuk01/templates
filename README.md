@@ -1,6 +1,6 @@
 # Christian's "Boilerplates"
 
-Hi, there! 👋
+Hi, there enemies! 👋
 
 I’m Christian, a 35 years old tech enthusiast from Germany, and I love to inspire and educate people in IT.
 
